@@ -6,6 +6,7 @@ public class SimpleTest {
 			int a = 10;
 			int b = 20;
 			System.out.println(i+". "+a+" + "+b+" = "+2*(a+b));
+			System.out.println("Done");
 		}
 	}
 }
