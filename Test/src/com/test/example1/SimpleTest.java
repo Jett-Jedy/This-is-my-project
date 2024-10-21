@@ -8,6 +8,7 @@ public class SimpleTest {
 			System.out.println(i+". "+a+" + "+b+" = "+2*(a+b));
 			System.out.println("Done");
 			System.out.println("Okay");
+			System.out.println("Bye");
 		}
 	}
 }
