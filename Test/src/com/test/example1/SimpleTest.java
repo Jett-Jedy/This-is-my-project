@@ -5,7 +5,8 @@ public class SimpleTest {
 		for(int i=1; i<=10; i++) {
 			int a = 10;
 			int b = 20;
-			System.out.println(i+". "+a+" + "+b+" = "+(a+b));
+			int c = 1;
+			System.out.println(i+". "+a+" + "+b+" + "+c+" = "+(a+b+c));
 		}
 	}
 }
